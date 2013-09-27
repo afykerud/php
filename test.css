@@ -1,0 +1,25 @@
+body {	background-color: #303942;
+		text-align: center;
+}
+
+.viktig	{	color: black;
+		font-weight: bold;
+		font-size: 30px;
+}
+
+{
+float: left;
+color: red;
+}
+
+form { padding: 30px;
+}
+
+#formen {
+		border: 1px solid #e9e9e9;
+   		background-color:#303942;
+    		color:#fff;
+		height: 145px;
+		width: 350px;
+		margin: auto;  
+}
